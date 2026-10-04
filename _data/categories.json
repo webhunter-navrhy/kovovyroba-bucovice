@@ -1,0 +1,44 @@
+[
+ {
+  "slug": "ohniste",
+  "name": "Venkovní zahradní ohniště",
+  "short": "Ohniště",
+  "count": 8
+ },
+ {
+  "slug": "akcni-sety",
+  "name": "Akční sety",
+  "short": "Akční sety",
+  "count": 8
+ },
+ {
+  "slug": "doplnky",
+  "name": "Doplňky",
+  "short": "Doplňky",
+  "count": 19
+ },
+ {
+  "slug": "udirny",
+  "name": "Udírny",
+  "short": "Udírny",
+  "count": 10
+ },
+ {
+  "slug": "exkluzivni-grily",
+  "name": "Exkluzivní grily",
+  "short": "Exkluzivní grily",
+  "count": 14
+ },
+ {
+  "slug": "grily-big-green-egg",
+  "name": "Grily Big Green Egg",
+  "short": "Big Green Egg",
+  "count": 5
+ },
+ {
+  "slug": "kvetinace",
+  "name": "Zahradní vyvýšené záhony",
+  "short": "Vyvýšené záhony",
+  "count": 4
+ }
+]

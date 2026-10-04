@@ -1,0 +1,209 @@
+{
+  "name": "Kovovýroba Bučovice",
+  "title": "Kovovýroba Bučovice – ručně vyráběná kovová ohniště",
+  "description": "Rodinná kovodílna z Bučovic. Zahradní ohniště v průměrech 60–100 cm, udírny, rošty a doplňky. Doprava po celé ČR i na Slovensko, osobní odběr v dílně.",
+  "demo_bar": "Nezávazný návrh nového webu od Studentských Webů. Košík i objednávka jsou jen ukázka, nic se neodesílá.",
+  "contact": {
+    "person": "Mgr. Marek Kachlík",
+    "phone": "+420 774 641 994",
+    "phone_href": "+420774641994",
+    "email": "marek@kovovyroba-bucovice.cz",
+    "workshop_label": "Osobní vyzvednutí / dílna (Po–Čt)",
+    "address": "Hájecká 1109, 685 01 Bučovice",
+    "map": "https://mapy.cz/zakladni?q=H%C3%A1jeck%C3%A1%201109%2C%20Bu%C4%8Dovice",
+    "billing_name": "Marek Kachlík",
+    "ico": "07462034",
+    "facebook_label": "Kovovýroba Bučovice – opeč špek",
+    "facebook": "https://www.facebook.com/Opecspek/",
+    "instagram_label": "@opecspek",
+    "instagram": "https://www.instagram.com/opecspek"
+  },
+  "hero": {
+    "eyebrow": "Rodinná kovodílna · Bučovice",
+    "h1_a": "Ohniště,",
+    "h1_b": "kolem kterého",
+    "h1_em": "se sejde rodina",
+    "lead": "Zahradní ohniště v průměrech 60 až 100 cm, udírny, rošty a doplňky. Každý kus projde našima rukama – od zpracování materiálu až po výrobek připravený na zahradu.",
+    "cta": "Vybrat ohniště",
+    "cta2": "Výroba na zakázku",
+    "image": "assets/img/p/polohovatelny-rost-2.webp",
+    "badge_label": "Ohniště STANDART (3 mm)",
+    "badge_product": "ohniste-s-prumerem-80-cm",
+    "facts": [
+      "Ø 60–100 cm",
+      "Ocel 3 mm i 5 mm",
+      "Osobní odběr v dílně"
+    ]
+  },
+  "marquee": [
+    "Ruční výroba v Bučovicích",
+    "Průměry 60, 70, 80, 90 a 100 cm",
+    "Doprava po ČR i na Slovensko",
+    "Osobní odběr v dílně",
+    "Výroba na zakázku",
+    "@opecspek"
+  ],
+  "category_images": {
+    "ohniste": "assets/img/p/polohovatelny-rost-3.webp",
+    "akcni-sety": "assets/img/p/viko-na-ohniste-2.webp",
+    "doplnky": "assets/img/p/grilovaci-rost-pul-kruh-1.webp",
+    "udirny": "assets/img/p/udirna-ze-sudu-dymobox-2.webp",
+    "exkluzivni-grily": "assets/img/p/vinda-xxl-1.webp",
+    "grily-big-green-egg": "assets/img/p/gril-big-green-egg-large-ve-stole-1.webp",
+    "kvetinace": "assets/img/p/zahradni-zahon-vyvyseny-1.webp"
+  },
+  "sizes": {
+    "eyebrow": "Nejčastější otázka",
+    "title": "Jak velké ohniště?",
+    "lead": "Nejoblíbenější je průměr 80 cm – nabízí dost prostoru pro grilování i posezení s rodinou nebo přáteli. Vyberte si průměr a hned uvidíte cenu.",
+    "products": [
+      "ohniste-s-prumerem-80-cm",
+      "venkovni-zahradni-ohniste-premium",
+      "venkovni-zahradni-ohniste-corten",
+      "venkovni-zahradni-ohniste-nerez-60-100-cm"
+    ],
+    "default": "80 cm"
+  },
+  "about": {
+    "eyebrow": "O nás",
+    "title_a": "Z poctivé dílny",
+    "title_em": "až na české a slovenské zahrady",
+    "p": [
+      "Jsme malá rodinná firma, která stojí především na poctivém řemesle, kvalitním materiálu a radosti z dobře odvedené práce. V naší dílně vznikají kovářské výrobky všeho druhu, nejvíc se věnujeme zahradním ohništím.",
+      "Chceme, aby naše výrobky nebyly jen obyčejným kusem kovu. Ohniště má být místem, kolem kterého se večer sejde rodina, přátelé, opečou se špekáčky, ugriluje maso a vzniknou vzpomínky.",
+      "Pokud jste z okolí, můžete si hotové ohniště po předchozí domluvě vyzvednout přímo u nás v dílně. Pokud jste dál, ohniště Vám odešleme přepravní společností TOPTRANS přímo na adresu za 399 Kč, a to po celé České republice i na Slovensko."
+    ],
+    "quote": "Od prvního kusu kovu až po chvíli, kdy u našeho ohniště zapálíte první oheň. To je naše práce.",
+    "image": "assets/img/p/rost-do-ohniste-30x-40-cm-3.webp",
+    "image2": "assets/img/p/elegantni-ohniste-3.webp",
+    "stats": [
+      {
+        "n": 5,
+        "label": "průměrů ohnišť, od 60 do 100 cm"
+      },
+      {
+        "n": 65,
+        "label": "výrobků v nabídce"
+      },
+      {
+        "n": 399,
+        "suffix": " Kč",
+        "label": "doprava TOPTRANS až na adresu"
+      }
+    ]
+  },
+  "smokers": {
+    "eyebrow": "Udírny",
+    "title_a": "Udírny ze sudu",
+    "title_em": "i elektrické",
+    "text": "Udírny z renovovaného dubového sudu 220 l na dřevo, s dymoboxem nebo s duálním pohonem, kompaktní elektrické udírny 120 l a 300 l a k nim generátor kouře, PID regulátor teploty i háčky.",
+    "image": "assets/img/p/udirna-ze-sudu-220-l-dualni-pohon-7.webp",
+    "image2": "assets/img/p/udirna-ze-sudu-220-l-dualni-pohon-6.webp",
+    "products": [
+      "udirna-ze-sudu",
+      "udirna-ze-sudu-dymobox",
+      "udirna-ze-sudu-220-l-dualni-pohon",
+      "kompaktni-elektricka-udirna-120-l",
+      "kompaktni-elektricka-udirna-300-l",
+      "elektricka-udirna-se-striskou-300-l"
+    ]
+  },
+  "custom": {
+    "eyebrow": "Na zakázku",
+    "title_a": "Nenašli jste, co jste hledali?",
+    "title_em": "Vyrobíme to na míru.",
+    "text": "Nechceme vyrábět pouze to, co najdete v katalogu. Ohniště na míru, speciální rozměr nebo jiné individuální provedení? Stačí se s námi domluvit.",
+    "b2b_title": "Pro zahradnictví, železářství a e-shopy",
+    "b2b_text": "Hledáte dodavatele zahradních ohnišť? Při větším odběru Vám rádi připravíme individuální cenovou nabídku podle požadovaného množství a provedení. Kromě ohnišť umíme vyrobit také brány, ploty a další kovové výrobky.",
+    "image": "assets/img/p/elegantni-ohniste-2.webp"
+  },
+  "reviews_note": "Ověřená hodnocení zákazníků přes Reputive",
+  "reviews": [
+    {
+      "name": "Eva",
+      "text": "Rychlé vyřízení i zaslání objednávky"
+    },
+    {
+      "name": "Ověřený zákazník",
+      "text": "Vše naprosto v pořádku, zboží ještě nevyzkoušeno, ale vypadá kvalitně."
+    },
+    {
+      "name": "Ověřený zákazník",
+      "text": "Bezproblémová komunikace, rychlé zaslání a dodání kvalitního ohniště."
+    },
+    {
+      "name": "Miroslav Vídeňka",
+      "text": "Perfektní zpracování, vynikající komunikace, rychlé dodání"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Jak rychle odesíláte objednávky?",
+      "a": "Většinu objednávek odesíláme během několika pracovních dnů. O průběhu objednávky Vás průběžně informujeme."
+    },
+    {
+      "q": "Je ohniště připravené k použití?",
+      "a": "Ano. Po doručení stačí ohniště umístit na vhodné místo a můžete ho ihned začít používat."
+    },
+    {
+      "q": "Mohu používat ohniště po celý rok?",
+      "a": "Ano. Naše zahradní ohniště jsou určená pro celoroční venkovní použití a můžete je využívat v každém ročním období."
+    },
+    {
+      "q": "Jakou velikost ohniště doporučujete?",
+      "a": "Nejoblíbenější variantou je ohniště o průměru 80 cm, které nabízí dostatek prostoru pro grilování i posezení s rodinou nebo přáteli."
+    },
+    {
+      "q": "Nabízíte také příslušenství?",
+      "a": "Ano. V nabídce najdete grilovací desky, grilovací rošty, ochranná víka, kované vidlice a další praktické doplňky."
+    },
+    {
+      "q": "Mohu se před nákupem poradit?",
+      "a": "Samozřejmě. Rádi Vám pomůžeme s výběrem správného ohniště i vhodného příslušenství."
+    }
+  ],
+  "shipping": [
+    {
+      "id": "odber",
+      "label": "Osobní odběr v dílně Bučovice",
+      "note": "Po–Čt, po předchozí domluvě",
+      "price": 0
+    },
+    {
+      "id": "toptrans",
+      "label": "TOPTRANS až na adresu",
+      "note": "ČR i Slovensko",
+      "price": 399
+    },
+    {
+      "id": "jina",
+      "label": "PPL nebo DHL",
+      "note": "cenu dopravy potvrdíme e-mailem",
+      "price": null
+    }
+  ],
+  "payment": [
+    {
+      "id": "prevod",
+      "label": "Bankovním převodem"
+    },
+    {
+      "id": "dobirka",
+      "label": "Na dobírku"
+    },
+    {
+      "id": "hotove",
+      "label": "Hotově při osobním odběru"
+    }
+  ],
+  "guides": [
+    {
+      "title": "Proč grilovat na roštu?",
+      "text": "Rošt umožňuje grilování na přímém plameni, hodí se na maso, ryby, zeleninu i ovoce a odkapává z něj nadbytečný tuk. A jak se o něj starat, aby vydržel roky."
+    },
+    {
+      "title": "Jak připravit ohniště na novou sezónu?",
+      "text": "Vyčištění, ochrana povrchu proti korozi, kontrola stavu, příprava paliva a malý zkušební ohýnek. Pět kroků, a můžete zapalovat."
+    }
+  ]
+}
